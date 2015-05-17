@@ -1,0 +1,2 @@
+# Chinese_Word_Segmentation
+Python实现的简单中文分词系统
